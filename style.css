@@ -1,0 +1,23 @@
+h1 {
+  text-align: center;
+}
+#cat {
+  text-align: center;
+  margin-bottom: 10px;
+}
+#yes {
+  text-align: center;
+  margin-left: 530px;
+  position: absolute;
+  /* display: inline-block; */
+}
+
+#No {
+  text-align: center;
+  margin-left: 600px;
+  /* display: inline-block; */
+}
+
+img {
+  width: 200px;
+}
